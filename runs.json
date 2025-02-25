@@ -1,0 +1,12 @@
+[
+  {
+    "description": "Example test run",
+    "timestamp": "2025-02-25T21:41:49.394535",
+    "output": "TWAP for bitcoin in usd over 7 days: 95708.29761904762"
+  },
+  {
+    "description": "Example test run",
+    "timestamp": "2025-02-26T15:07:11.092081",
+    "output": "TWAP for bitcoin in usd over 7 days: 94877.29761904762"
+  }
+]
