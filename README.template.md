@@ -45,7 +45,7 @@ With custom parameters:
 
 To log a run with description:
 ```bash
-    make log-run COIN=xxx DESC="A xxx analysis for report"
+    make log-run COIN=xxx DESC="Example test run"
 ```
 
 <!-- RUNS_TABLE -->

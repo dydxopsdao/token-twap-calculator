@@ -1,5 +1,7 @@
 .PHONY: setup run clean vscode-setup run log-run readme install help
 
+export PIPENV_IGNORE_VIRTUALENVS = 1
+
 setup:
 	PIPENV_VENV_IN_PROJECT=1 pipenv install pycoingecko pandas
 

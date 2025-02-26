@@ -32,8 +32,8 @@ def update_readme_from_template():
     
     # Generate runs table
     runs_table = "## Past Runs\n\n"
-    runs_table += "| Description | Timestamp | Output |\n"
-    runs_table += "|-------------|-----------|--------|\n"
+    runs_table += "| Description | Timestamp (UTC) | Output |\n"
+    runs_table += "|-------------|----------------|--------|\n"
     
     for run in runs:
         # Format timestamp for readability
@@ -59,7 +59,7 @@ def log_run(description, output):
     # Create new run entry
     run = {
         "description": description,
-        "timestamp": datetime.datetime.now().isoformat(),
+        "timestamp": datetime.datetime.now(datetime.timezone.utc).isoformat(),
         "output": output
     }
     

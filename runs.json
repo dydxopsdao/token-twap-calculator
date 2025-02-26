@@ -1,12 +1,7 @@
 [
   {
     "description": "Example test run",
-    "timestamp": "2025-02-26T15:29:32.018590",
-    "output": "TWAP for ethereum in usd over 7 days: 2672.494642857143"
-  },
-  {
-    "description": "Example test run",
-    "timestamp": "2025-02-26T15:32:51.930023",
-    "output": "TWAP for bitcoin in usd over 7 days: 94877.29761904762"
+    "timestamp": "2025-02-26T21:39:30.621943+00:00",
+    "output": "TWAP for bitcoin in usd over 7 days: 94423.63690476191"
   }
 ]

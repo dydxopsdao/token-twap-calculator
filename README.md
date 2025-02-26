@@ -45,13 +45,12 @@ With custom parameters:
 
 To log a run with description:
 ```bash
-    make log-run COIN=xxx DESC="A xxx analysis for report"
+    make log-run COIN=xxx DESC="Example test run"
 ```
 
 ## Past Runs
 
-| Description | Timestamp | Output |
-|-------------|-----------|--------|
-| Example test run | 2025-02-26 15:29:32 | TWAP for ethereum in usd over 7 days: 2672.494642857143 |
-| Example test run | 2025-02-26 15:32:51 | TWAP for bitcoin in usd over 7 days: 94877.29761904762 |
+| Description | Timestamp (UTC) | Output |
+|-------------|----------------|--------|
+| Example test run | 2025-02-26 21:39:30 | TWAP for bitcoin in usd over 7 days: 94423.63690476191 |
 
