@@ -53,4 +53,5 @@ To log a run with description:
 | Description | Timestamp (UTC) | Output |
 |-------------|----------------|--------|
 | Example test run | 2025-02-26 21:39:30 | TWAP for bitcoin in usd over 7 days: 94423.63690476191 |
+| 1st Tranche of Funding for 3rd Mandate of dYdX Ops subDAO | 2025-03-03 14:26:23 | TWAP for dydx in usd over 7 days: 0.6988294404761904 |
 

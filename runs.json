@@ -3,5 +3,10 @@
     "description": "Example test run",
     "timestamp": "2025-02-26T21:39:30.621943+00:00",
     "output": "TWAP for bitcoin in usd over 7 days: 94423.63690476191"
+  },
+  {
+    "description": "1st Tranche of Funding for 3rd Mandate of dYdX Ops subDAO",
+    "timestamp": "2025-03-03T14:26:23.427315+00:00",
+    "output": "TWAP for dydx in usd over 7 days: 0.6988294404761904"
   }
 ]
